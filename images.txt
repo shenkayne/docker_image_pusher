@@ -1,4 +1,5 @@
 centos
+hadoop:latest
 nginx
 nextcloud
 ubuntu:18.04
