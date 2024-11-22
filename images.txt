@@ -1,3 +1,4 @@
+bde2020/hadoop:3.2.1
 openjdk:8-jdk
 nginx
 nextcloud
