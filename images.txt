@@ -1,5 +1,4 @@
-hadoop-docker
-centos
+openjdk:8-jdk
 nginx
 nextcloud
 ubuntu:18.04
