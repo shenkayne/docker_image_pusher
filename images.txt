@@ -1,4 +1,4 @@
-sequenceiq/hadoop-docker
+hadoop-docker
 centos
 nginx
 nextcloud
