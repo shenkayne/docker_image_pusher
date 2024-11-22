@@ -1,4 +1,4 @@
-bde2020/hadoop:3.2.1
+docker.io/sequenceiq/hadoop-docker
 openjdk:8-jdk
 nginx
 nextcloud
