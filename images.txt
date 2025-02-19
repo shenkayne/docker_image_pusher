@@ -4,4 +4,4 @@ nginx
 nextcloud
 ubuntu:18.04
 mysql:8.0.31
-
+hadoop
