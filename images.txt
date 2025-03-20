@@ -1,9 +1,8 @@
-docker.io/sequenceiq/hadoop-docker
+bestwu/wechat
+bestwu/qq:office
 openjdk:8-jdk
 nginx
 nextcloud
 ubuntu:18.04
 mysql:8.0.31
-hadoop
-bestwu/wechat
-bestwu/qq:office
+
