@@ -11,3 +11,4 @@ minio/minio
 rabbitmq:3.12.0-management
 mongo:7.0.0
 bitnami/spark
+postgres
