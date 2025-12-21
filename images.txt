@@ -1,5 +1,4 @@
 bestwu/wechat
-bestwu/qq:office
 openjdk:8-jdk
 nginx
 nextcloud
@@ -9,7 +8,7 @@ redis:7.0.10
 nacos/nacos-server:v2.1.1
 minio/minio
 rabbitmq:3.12.0-management
-mongo:7.0.0
 bitnami/spark
 elasticsearch:7.4.2
 kibana:7.4.2
+
